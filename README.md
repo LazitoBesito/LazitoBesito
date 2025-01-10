@@ -9,7 +9,6 @@
 
   <p align="left"><i><b>
   💻 Woman in Tech<br>
-  🎓 Systems Engineering student
   </i></b></p>
 
 <h3> Social Media </h3>
